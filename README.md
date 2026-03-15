@@ -4,6 +4,8 @@ This project presents an interactive Zepto Grocery Sales Dashboard that analyzes
 ## Tools & Technologies Used
 Power BI – Dashboard visualization ,
 Excel / CSV – Data preparation
+## Dataset
+
 
 ## Dataset Description
 The dataset contains retail grocery sales data with attributes such as:-
@@ -57,4 +59,5 @@ Sales peaked around 2016–2017 based on outlet establishment analysis,
 Regular fat content products slightly outperform low-fat items in sales.
 
 ## Dashboard Preview
-Zepto Grocery Dashboard - 
+Zepto Grocery Dashboard - https://github.com/gohitha-meghana/Zepto-Grocery-Sales-Dashboard-Retail-Data-Analysis-/blob/main/Zepto%20Grocery%20Data%20Dashboard.png
+
