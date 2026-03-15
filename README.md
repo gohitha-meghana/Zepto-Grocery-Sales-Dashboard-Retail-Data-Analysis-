@@ -4,7 +4,7 @@ This project presents an interactive Zepto Grocery Sales Dashboard that analyzes
 ## Tools & Technologies Used
 Power BI – Dashboard visualization ,
 Excel / CSV – Data preparation
-## Dataset - 
+## Dataset - https://github.com/gohitha-meghana/Zepto-Grocery-Sales-Dashboard-Retail-Data-Analysis-/blob/main/Zepto%20Grocery%20Data.xlsx
 
 
 ## Dataset Description
